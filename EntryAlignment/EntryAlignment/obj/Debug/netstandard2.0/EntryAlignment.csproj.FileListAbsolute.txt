@@ -1,0 +1,13 @@
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/bin/Debug/netstandard2.0/EntryAlignment.deps.json
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/bin/Debug/netstandard2.0/EntryAlignment.dll
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/bin/Debug/netstandard2.0/EntryAlignment.pdb
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/obj/Debug/netstandard2.0/EntryAlignment.csproj.AssemblyReference.cache
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/obj/Debug/netstandard2.0/EntryAlignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/obj/Debug/netstandard2.0/EntryAlignment.AssemblyInfoInputs.cache
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/obj/Debug/netstandard2.0/EntryAlignment.AssemblyInfo.cs
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/obj/Debug/netstandard2.0/EntryAlignment.csproj.CoreCompileInputs.cache
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/obj/Debug/netstandard2.0/EntryAlignment.dll
+/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment/obj/Debug/netstandard2.0/EntryAlignment.pdb

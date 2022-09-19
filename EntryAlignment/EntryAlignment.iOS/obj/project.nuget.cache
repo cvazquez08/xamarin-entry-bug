@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4oykOyEdSQYKvSv/B4hugwplxKtJva0fox9sfavHpmKPnGrE9HhtzOCva1/npUknRUGP4yoBXWBaogoTCSDO+w==",
+  "success": true,
+  "projectFilePath": "/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment.iOS/EntryAlignment.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/chris.vazquez/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

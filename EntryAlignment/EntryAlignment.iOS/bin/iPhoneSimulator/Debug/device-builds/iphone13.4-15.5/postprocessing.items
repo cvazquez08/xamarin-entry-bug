@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="EntryAlignment.iOS.app/EntryAlignment.iOS">
+      <BCSymbolMapName>EntryAlignment.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>EntryAlignment.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj/iPhoneSimulator/Debug/device-builds/iphone13.4-15.5/mtouch-symbols.list</SymbolFile>
+      <DSymName>EntryAlignment.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/chris.vazquez/RiderProjects/EntryAlignment/EntryAlignment/EntryAlignment.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
